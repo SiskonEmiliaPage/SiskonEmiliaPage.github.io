@@ -1,2 +1,2 @@
 # SiskonEmiliaPage.github.io
-A place for @SiskonEmilia to display web pages
+As hexo cannot normally and easilly display my web pages, I upload them here.
